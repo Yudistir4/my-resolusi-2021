@@ -2,4 +2,5 @@ Rencana Ngoding
 Maret:
 - flutter
   * ngapak
+  * mobile
 - java 
